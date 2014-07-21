@@ -1,0 +1,17 @@
+*;*
+tags
+
+*.scr
+*.grp
+*.zgrp
+*.off
+
+ixrecMLtl
+*.ami
+*.amr
+
+*.exe
+*.dll
+*.obj
+*.o
+*.res
